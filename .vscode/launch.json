@@ -8,7 +8,7 @@
       "type": "chrome",
       "request": "launch",
       "name": "Launch Chrome against localhost",
-      "url": "F:/GitHub/Test/index.html",
+      "url": "F:/GitHub/Gittest/index.html",
       "webRoot": "${workspaceFolder}"
     }
   ]
